@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                  = 'hello_debug'
+  s.name                  = 'hello'
   s.version               = '1.0.1' # 2.10.4
   s.summary               = 'A UI toolkit for beautiful and fast apps.'
   s.description           = <<-DESC
