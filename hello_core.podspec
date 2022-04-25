@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                  = 'Flutter'
+  s.name                  = 'hello_core'
   s.version               = '2.0.0' # 2.0.0
   s.summary               = 'Flutter Engine Framework'
   s.description           = <<-DESC
